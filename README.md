@@ -1,6 +1,6 @@
 <p align="center"><img width="150" src="https://i.ibb.co/vJ18CFp/docve-logo.png" alt="Docve logo"></p>
 <p align="center">
-   🖥️ An opinionated documentation tool for everything built with <a href="https://svelte.dev">Svelte 3</a>.
+   An opinionated documentation tool for everything built with <a href="https://svelte.dev">Svelte 3</a>.
 </p>
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" alt="Maintained">
